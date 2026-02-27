@@ -1,7 +1,9 @@
+package POO.AplicationSemPOO;
+
 import java.util.Locale;
 import java.util.Scanner;
 
-public class UmSemPOO {
+public class TrianguSemPoo {
     public static void main(String[] args){
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);

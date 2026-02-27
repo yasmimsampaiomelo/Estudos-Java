@@ -1,8 +1,10 @@
-package entidades;
+package POO.Aplication;
+
+import POO.entidades.Triangle;
 
 import java.util.Scanner;
 
-public class Main {
+public class TrianguloComPoo {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         Triangle x, y;
